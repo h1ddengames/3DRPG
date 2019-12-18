@@ -76,9 +76,15 @@ OR
     namespace h1ddengames {
         public class #SCRIPTNAME# : MonoBehaviour {
             #region Exposed Fields
+
             #endregion
 
             #region Private Fields
+
+            #endregion
+
+            #region Getters/Setters
+
             #endregion
 
             #region Unity Methods
@@ -92,9 +98,11 @@ OR
             #endregion
 
             #region My Methods
+
             #endregion
 
             #region Helper Methods
+
             #endregion
         }
     }
