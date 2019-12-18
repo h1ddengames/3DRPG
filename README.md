@@ -21,3 +21,14 @@ OR
 2. Open a new project and import the .unitypackage file by going to Assets -> Import Package -> Custom Package.
 3. Select the .unitypackage file that was downloaded from step 1.
 4. Expand the scenes folder and open the Default scene.
+
+## Important assets obtained from Asset Store and other areas
+
+- Character models and animations were found here: https://www.mixamo.com/
+- Third Person Character controller found here: https://www.youtube.com/watch?v=ocLZNRasU64&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+## Important code helpers being used in this project
+
+- NaughtyAttributes - Used for Attributes in the Unity Inspector found here: https://github.com/dbrizov/NaughtyAttributes
+- unity3d-reorderable-list - Used for reorderable lists in the Unity Inspector found here: https://github.com/rotorz/unity3d-reorderable-list
+- Serialized Dictionary Lite - Used to see dictionaries in the Unity Inspector found here: https://assetstore.unity.com/packages/tools/utilities/serialized-dictionary-lite-110992
